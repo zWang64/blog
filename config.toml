@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://zwang64.github.io/'
 languageCode = 'en-us'
-title = 'zWang64's blog'
+title = 'zWang64 blog'
 theme = "ananke"
 
 enableGitInfo = 'true'
