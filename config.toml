@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'zWang64's blog'
+theme = "ananke"
+
+enableGitInfo = 'true'
+hasCJKLanguage = 'true'
